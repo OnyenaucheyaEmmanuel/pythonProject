@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Soap",
+        "quantity": 3,
+        "price": 23,
+        "is_expired": false
+    },
+    {
+        "name": "Tissue",
+        "quantity": 6,
+        "price": 20,
+        "is_expired": false
+    },
+    {
+        "name": "Durex",
+        "quantity": 2,
+        "price": 123,
+        "is_expired": false
+    },
+    {
+        "name": "Neck choke",
+        "quantity": 1,
+        "price": 239,
+        "is_expired": true
+    }
+]

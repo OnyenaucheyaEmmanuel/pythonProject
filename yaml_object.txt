@@ -1,0 +1,16 @@
+-   is_expired: false
+    name: Soap
+    price: 23
+    quantity: 3
+-   is_expired: false
+    name: Tissue
+    price: 20
+    quantity: 6
+-   is_expired: false
+    name: Durex
+    price: 123
+    quantity: 2
+-   is_expired: true
+    name: Neck choke
+    price: 239
+    quantity: 1
